@@ -1,0 +1,5 @@
+model,train_perplexity,test_perplexity
+unigram,4968.95,4634.47
+bigram,166.91,1758.74
+trigram,24.87,1614.47
+4-gram,20.75,1611.63

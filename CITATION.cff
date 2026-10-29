@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use these results or derived data, please cite as below."
+title: "Analysis of Sinhala Using Natural Language Processing Techniques"
+type: report
+authors:
+  - family-names: Gallege
+    given-names: Sajika
+    affiliation: "Department of Computer Sciences, University of Wisconsin–Madison"
+date-released: 2010-05-07
+url: "https://github.com/sajikag/sinhala-nlp-2010"
+keywords:
+  - Sinhala
+  - low-resource languages
+  - natural language processing
+  - Zipf's law
+  - text classification
+  - language identification
+license: CC-BY-4.0
